@@ -25,7 +25,7 @@ This project is an interactive Excel dashboard created to analyze bike purchase 
 - Slicers & Interactive Filtering
 - Dashboard Design & Layout
 
-## 📸 Dashboard Screenshot
+
 
 
 
